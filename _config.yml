@@ -1,7 +1,7 @@
 name: sunahara
 favicon: null
-layout_spectrum: 0.9204619592055678
-typography_spectrum: 0.0278980431612581
+layout_spectrum: 0
+typography_spectrum: 0.24547
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
-  brandStrength: 0.1652360036969185
-  lightness: 0.9633696211967617
-  saturation: 0.4920147848315537
-  rhythmicContrast: 0.10427619027905166
+    - '#010103'
+    - '#34375b'
+    - '#fefefe'
+    - '#adafcb'
+    - '#6b6c7d'
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0
 purpose: []
