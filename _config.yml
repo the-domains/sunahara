@@ -1,0 +1,28 @@
+name: sunahara
+favicon: null
+layout_spectrum: 0.9204619592055678
+typography_spectrum: 0.0278980431612581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.1652360036969185
+  lightness: 0.9633696211967617
+  saturation: 0.4920147848315537
+  rhythmicContrast: 0.10427619027905166
+purpose: []
