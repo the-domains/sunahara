@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I had all the cliches to be great: country boy that went to big city, dedicated student, class orator and hired as copywriter one year before graduation. Wow! But then, in the blink of an eye, I caught myself stuck in the same agency and making the same work for almost 5 years. It was time to change.'
-datePublished: '2016-04-15T11:29:30.178Z'
-dateModified: '2016-04-15T11:13:47.263Z'
+datePublished: '2016-04-15T11:30:56.181Z'
+dateModified: '2016-04-15T11:30:26.873Z'
 author: []
 related: []
 app_links: []
@@ -25,7 +25,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Enzo Sunahara</h1><p>Senior Copywriter</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/309aa8e94b759448f88e08fb2a74e3ca7929a7da.jpg" /></article>
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f918bf3-eb5f-4acc-8a38-c703304cb661.jpg)
 
 I had all the cliches to be great: country boy that went to big city, dedicated student, class orator and hired as copywriter one year before graduation. Wow! But then, in the blink of an eye, I caught myself stuck in the same agency and making the same work for almost 5 years. It was time to change.
 
