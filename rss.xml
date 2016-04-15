@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[sunahara]]></title>
         <description><![CDATA[sunahara]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sunahara/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 14 Apr 2016 18:57:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Apr 2016 11:13:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sunahara/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Enzo Sunahara]]></title>
+            <description><![CDATA[<article><h1>Enzo Sunahara</h1><p>I had all the cliches to be great: country boy that went to big city, dedicated student, class orator and hired as copywriter one year before graduation. Wow! But then, in the blink of an eye, I caught myself stuck in the same agency and making the same work for almost 5 years. It was time to change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/309aa8e94b759448f88e08fb2a74e3ca7929a7da.jpg"></article>]]></description>
+            <link>http://cargocollective.com/sunahara</link>
+            <guid isPermaLink="false">68bfd6ac-edfa-4544-8bf3-c976c87cb9cb</guid>
+            <pubDate>Fri, 15 Apr 2016 11:13:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[A Obra de Arte Incompleta]]></title>
             <description><![CDATA[<article><h1>A Obra de Arte Incompleta</h1><p>We took a child away from a world-renown painting to make people think about real missing children</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ef4d7f04d18228bfb69e4088d533189d71278b4.jpg"></article>]]></description>
