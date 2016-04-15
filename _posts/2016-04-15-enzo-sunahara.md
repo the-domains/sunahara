@@ -7,20 +7,20 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'I had all the cliches to be great: country boy that went to big city, dedicated student, class orator and hired as copywriter one year before graduation. Wow! But then, in the blink of an eye, I caught myself stuck in the same agency and making the same work for almost 5 years. It was time to change.'
-datePublished: '2016-04-15T11:13:38.061Z'
-dateModified: '2016-04-15T11:13:20.582Z'
+datePublished: '2016-04-15T11:29:30.178Z'
+dateModified: '2016-04-15T11:13:47.263Z'
 author: []
 related: []
 app_links: []
 title: Enzo Sunahara
+sourcePath: _posts/2016-04-15-enzo-sunahara.md
+published: true
 authors: []
 publisher:
   name: Cargocollective
   domain: cargocollective.com
   url: 'http://cargocollective.com'
   favicon: 'http://favicon.cargocollective.com/favicon.ico'
-sourcePath: _posts/2016-04-15-enzo-sunahara.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
